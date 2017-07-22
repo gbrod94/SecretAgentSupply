@@ -138,11 +138,8 @@ h3 {
 
 #logo, #mainbanner, #navbar, #items, #info, footer {
   width: 960px;
-  margin-right: auto;
-  margin-left: auto;
-  display: flex;
-  padding-left: 8rem;
-  padding-right: 8rem;
+  padding-left: 15%;
+  padding-right: 15%;
   }
 
   #container {
