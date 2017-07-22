@@ -151,6 +151,9 @@ footer {
   background-color: black;
   text-align: left;
   height: 5rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
   }
 
 footer p {
